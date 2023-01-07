@@ -1,0 +1,3 @@
+C:/Users/VKOLIVE/Desktop/corrida/cmake-build-debug/CMakeFiles/corrida.dir
+C:/Users/VKOLIVE/Desktop/corrida/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VKOLIVE/Desktop/corrida/cmake-build-debug/CMakeFiles/rebuild_cache.dir
